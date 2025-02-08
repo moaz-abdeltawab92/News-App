@@ -26,7 +26,7 @@ The app provides a simple yet engaging user experience, making it easy for users
 
 Here is a glimpse of the News Cloud App showcasing its main features:  
 
-![App Preview](https://raw.githubusercontent.com/moaz-abdeltawab92/News-Cloud-App/master/607shots_so.png)
+![App Preview](https://raw.githubusercontent.com/moaz-abdeltawab92/News-App/master/607shots_so.png)
 
 ---
 
@@ -36,7 +36,7 @@ Here is a glimpse of the News Cloud App showcasing its main features:
 - **Dart**: Programming language used to develop the app.
 - **Dio**: Library used for making network requests to fetch real-time news.
 - **CustomScrollView and Slivers**: Used to create dynamic layouts.
-- **MediaQuery**: Ensures responsiveness across all screen sizes.
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.10.5-blue)  
 ![Dart](https://img.shields.io/badge/Dart-2.20-green)  
@@ -46,5 +46,5 @@ Here is a glimpse of the News Cloud App showcasing its main features:
 
 ## **Notes**
 
-This app focuses on providing a sleek and interactive user interface while fetching real-time news updates. It does not include any backend implementation for user authentication or profile management.
+This app focuses on providing a sleek and interactive user interface while fetching real-time news updates.
 
